@@ -4,7 +4,7 @@ import com.han.shiro.entity.Role;
 
 /**
  * @ClassName: RoleService 
- * @Description: TODO(这里用一句话描述这个类的作用) 
+ * @Description:关联/移除关联角色-权限功能
  * @author handx 908716835@qq.com 
  * @date 2016年8月11日 下午11:10:31 
  *

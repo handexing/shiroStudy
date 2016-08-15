@@ -4,7 +4,7 @@ import com.han.shiro.entity.Permission;
 
 /**
  * @ClassName: PermissionService
- * @Description: TODO(这里用一句话描述这个类的作用)
+ * @Description: 实现基本的创建/删除权限。
  * @author handx 908716835@qq.com
  * @date 2016年8月11日 下午11:10:42
  *

@@ -6,7 +6,7 @@ import com.han.shiro.entity.User;
 
 /**
  * @ClassName: UserService
- * @Description: TODO(这里用一句话描述这个类的作用)
+ * @Description: 查找用户名对应的帐号、角色及权限信息
  * @author handx 908716835@qq.com
  * @date 2016年8月11日 下午11:10:16
  *
